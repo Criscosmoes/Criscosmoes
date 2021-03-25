@@ -41,14 +41,6 @@ Whether it's a project, chat, or job opportunity, I would love to hear from you.
 ### [LinkedIn]
 
 
-<br></br>
-
-- 🌱 I'm currently learning TypeScript 
-- 🤲 I'm looking to collaborate with other programmers
-- ⚡ Fun fact: I love to watch soccer and play video games in my free time
-
-
-
 [Portfolio]: https://cristian-fernandez.vercel.app/
 [Linkedin]: https://www.linkedin.com/in/cristian-fernandez-4357091a9/
 
