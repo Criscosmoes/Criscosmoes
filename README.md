@@ -5,6 +5,8 @@ Hello! My name is Cristian Fernandez and I am a passionate Web Developer. I love
 
 Whether it's a project, chat, or job opportunity, I would love to hear from you. Don't hesitate to reach out.
 
+
+
 ### Languages: 
 
 <img align="left" alt="Visual Studio" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -27,14 +29,21 @@ Whether it's a project, chat, or job opportunity, I would love to hear from you.
 <img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br></br>
+<br></br>
 
-### Connect with me: 
-
-<a href=" https://cristian-fernandez.vercel.app/" target="_blank">Portfolio</nav>
+### Connect with me:
 
 ### [Portfolio]
 
 ### [LinkedIn]
+
+
+<br></br>
+<br></br>
+
+- 🌱 I'm currently learning TypeScript 
+- 🤲 I'm looking to collaborate with other programmers
+- ⚡ Fun fact: I love to watch soccer and play video games in my free time
 
 
 
