@@ -30,7 +30,7 @@ Whether it's a project, chat, or job opportunity, I would love to hear from you.
 
 ### Connect with me: 
 
-<a href=" https://cristian-fernandez.vercel.app/" target="_blank">
+<a href=" https://cristian-fernandez.vercel.app/" target="_blank">Portfolio</nav>
 
 ### [Portfolio]
 
