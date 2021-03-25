@@ -30,13 +30,16 @@ Whether it's a project, chat, or job opportunity, I would love to hear from you.
 
 ### Connect with me: 
 
-Portfolio [portfolio]
-LinkedIn [linkedin]
+### [Portfolio]
+
+<br></br>
+
+### [LinkedIn]
 
 
 
-[portfolio]: https://cristian-fernandez.vercel.app/
-[linkedin]: https://www.linkedin.com/in/cristian-fernandez-4357091a9/
+[Portfolio]: https://cristian-fernandez.vercel.app/
+[Linkedin]: https://www.linkedin.com/in/cristian-fernandez-4357091a9/
 
 
 
