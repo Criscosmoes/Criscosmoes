@@ -6,7 +6,7 @@ Hello! My name is Cristian Fernandez and I am a passionate Web Developer. I love
 Whether it's a project, chat, or job opportunity, I would love to hear from you. Don't hesitate to reach out.
 
 - 🌱 I'm currently learning TypeScript 
-- 🤲 I'm looking to collaborate with other programmers
+- 🤲 I'm looking to collaborate with other programmers to create awesome side projects
 - ⚡ Fun fact: I love to watch soccer and play video games in my free time
 
 
