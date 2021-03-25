@@ -26,12 +26,17 @@ Whether it's a project, chat, or job opportunity, I would love to hear from you.
 <img align="left" alt="MongoDB" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+<br></br>
 
+### Connect with me: 
+
+Portfolio [portfolio]
+LinkedIn [linkedin]
 
 
 
 [portfolio]: https://cristian-fernandez.vercel.app/
-
+[linkedin]: https://www.linkedin.com/in/cristian-fernandez-4357091a9/
 
 
 
