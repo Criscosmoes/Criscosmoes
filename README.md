@@ -30,9 +30,9 @@ Whether it's a project, chat, or job opportunity, I would love to hear from you.
 
 ### Connect with me: 
 
-### [Portfolio]
+<nav href=[Portfolio] target="_blank" />
 
-<br></br>
+### [Portfolio]
 
 ### [LinkedIn]
 
