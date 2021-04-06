@@ -36,7 +36,7 @@ Whether it's a project, chat, or job opportunity, I would love to hear from you.
 ### [LinkedIn]
 
 
-[Portfolio]: https://cristian-fernandez.vercel.app/
+[Portfolio]: https://www.cristianfernandez.dev/
 [Linkedin]: https://www.linkedin.com/in/cristian-fernandez-4357091a9/
 
 
